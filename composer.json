@@ -1,16 +1,9 @@
 {
-    "name": "yiisoft/yii2-jui",
-    "description": "The Jquery UI extension for the Yii framework",
+    "name": "muvshot/yii2-jui",
+    "description": "The Jquery UI extension for the Yii framework, forked from yiisoft/yii2-jui",
     "keywords": ["yii2", "Jquery UI"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
-    "support": {
-        "issues": "https://github.com/yiisoft/yii2-jui/issues",
-        "forum": "http://www.yiiframework.com/forum/",
-        "wiki": "http://www.yiiframework.com/wiki/",
-        "irc": "irc://irc.freenode.net/yii",
-        "source": "https://github.com/yiisoft/yii2-jui"
-    },
     "authors": [
         {
             "name": "Qiang Xue",
